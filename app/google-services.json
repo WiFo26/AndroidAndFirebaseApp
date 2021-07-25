@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610356165807",
+    "project_id": "crypto-trader-ac199",
+    "storage_bucket": "crypto-trader-ac199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610356165807:android:75ec7f001fcc7d670d285a",
+        "android_client_info": {
+          "package_name": "com.example.androidandfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610356165807-3it5ncvti9hu03e967igra8c5aemr91m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbw2mQ6Ux5x_qQ32ftPfjcbJDXuSf02HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610356165807-3it5ncvti9hu03e967igra8c5aemr91m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
